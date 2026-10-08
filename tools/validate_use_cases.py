@@ -52,7 +52,7 @@ THREAT_SLUGS = set(
 # Only one unchanged v1 story is exempt, pending its retrofit to the v2 template:
 # sovereign-agents.md, ported as submitted from AAI-Society/openverification#2.
 # Any edit to it requires completing the v2 migration.
-LEGACY_V1_STORY = "sovereign-agents.md"
+LEGACY_V1_STORY = "submissions/sovereign-agents.md"
 LEGACY_V1_SHA256 = (
     "f1b7734c69c65f29ca20272eb4fbeb38df792649867ca3e76a4d8df8f84200e2"
 )
